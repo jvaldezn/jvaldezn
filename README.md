@@ -1,4 +1,4 @@
-### ¡Hola a todos! 👋
+### ¡Hola! 👋
 
 - 😀 Mi nombres es Jacob
 - ⌨️ Programo en C#, PHP y Java 
