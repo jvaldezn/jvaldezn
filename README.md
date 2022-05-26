@@ -1,7 +1,7 @@
 ### ¡Hola! 👋
 
 - 😀 Mi nombres es Jacob
-- ⌨️ Programo en C#, PHP y Java 
+- ⌨️ Programo en C# y PHP 
 - 👌 He usado todos frameworks frontend que existen en el mercado pero siempre prefiero usar vue 🧡
 - 💻 Recientemente estoy blogueando seguido en [jvaldezn.dev](https://jvaldezn.dev)
 - 🔭 Actualmente me encuentro estudiando diferentes certificaciones de pmo y scrum
