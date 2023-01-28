@@ -6,7 +6,6 @@
 - 💻 Recientemente estoy blogueando seguido en [jvaldezn.dev](https://jvaldezn.dev)
 - 📈 Actualmente estoy desarrollando diferentes proyectos personales
 - 📫 Puedes contactarte conmigo en mi blog
-- ⚡ Dato curioso sobre mi: Me gusta tocar la harmonica
 
 ### Lenguajes y herramientas:
 <p align="left">
