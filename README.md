@@ -4,7 +4,7 @@
 - 👀 Me gusta desarrollar software
 - 🌱 Las tecnologias que manejo principalmente son C#, .NET, HTML, CSS, JavaScript/Typescript
 - 💻 Mi blog [jvaldezn.dev](https://jvaldezn.dev)
-- 📫 Puedes contactarte conmigo por correo jvaldezn@outlook.es
+- 📫 Puedes contactarte conmigo por correo jacvn95@gmail.com
 
 ### Lenguajes y herramientas que he usado:
 <p align="left">
