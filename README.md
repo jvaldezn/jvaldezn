@@ -1,13 +1,12 @@
 ### ¡Hola! 👋
 
 - 😀 Mi nombres es Jacob
-- 🖥 Backend: Programo en C# y PHP
-- 🌐 Frontend: He usado todos frameworks frontend que existen en el mercado pero siempre he preferido vuejs 🧡
-- 💻 Recientemente estoy blogueando seguido en [jvaldezn.dev](https://jvaldezn.dev)
-- 📈 Actualmente estoy desarrollando diferentes proyectos personales
-- 📫 Puedes contactarte conmigo en mi blog
+- 👀 Me gusta desarrollar software
+- 🌱 Las tecnologias que manejo principalmente son C#, .NET, HTML, CSS, JavaScript/Typescript
+- 💻 Mi blog [jvaldezn.dev](https://jvaldezn.dev)
+- 📫 Puedes contactarte conmigo por correo jvaldezn@outlook.es
 
-### Lenguajes y herramientas:
+### Lenguajes y herramientas que he usado:
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
